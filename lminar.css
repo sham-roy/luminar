@@ -1,15 +1,10 @@
-body{
-    /* background-color: black; */
-    height: 2000px;
-}
-.header{
+
+.vbn {
     background-color: rgb(94,6,138);
     height: 37.5px;
     font-size: small;
+
 }
-/* .flex{
-    display: flex;
-} */
 .hmar {
     margin-left: 35%;
 }
@@ -35,10 +30,16 @@ body{
 }
 .vcourse{
     background: rgb(94,6,138);
-    width: 25%;
+    width: 20%;
     height: 60px;
     border-radius: 30px;
 }
 .caromargin{
-    margin-left: -70px;
+    margin-left: -92px;
+}
+.violet{
+    color: rgb(94,6,138);
+}
+.violite{
+    color: rgb(131, 59, 199);
 }
