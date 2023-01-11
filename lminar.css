@@ -43,3 +43,60 @@
 .violite{
     color: rgb(131, 59, 199);
 }
+
+.ourcrs {
+    text-align: center;
+    color: purple;
+    font-size: larger;
+
+}
+.ourcrs h1 span{
+    color: rgb(133, 99, 172);
+}
+.dtimg{
+    width: 95%;
+    height: 350px;
+}
+.dtadiv{
+    color: rgb(52, 7, 95);
+}
+.datad{
+    font-size: small;
+}
+.divw div{
+    width: 300px;
+}
+.divw div img{
+    width: 105%;
+    height: 220px;
+}
+.divw div h6{
+    color: blueviolet;
+    margin-top: 30px;
+}
+.divw div div{
+    margin-top: 30px;
+    width: 140px;
+    height: 40PX;
+    background-color: rgb(75, 37, 126);
+    padding-top: 9px;
+    padding-left: 20px;
+    color: aliceblue;
+}
+.vac{
+    margin-left: 44%;
+    margin-top: 150px;
+    width: 190px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(67, 37, 105);
+    border: 2px solid rgb(67, 37, 105);
+    border-radius: 30px;
+    padding-left: 33px;
+    padding-top: 15px;
+    margin-bottom: 50px;
+}
+.vac:hover{
+    background-color: rgb(67, 37, 105);
+    color: rgb(255, 255, 255);
+}
